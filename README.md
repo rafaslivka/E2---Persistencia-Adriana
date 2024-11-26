@@ -1,4 +1,4 @@
-# Projeto de Integração com MySQL 🎵🚗
+# E2 - Projeto de Integração com MySQL 🐬☕
 
 Este projeto tem como objetivo integrar classes de um projeto anterior (Tarefa E1) com um banco de dados MySQL. O sistema utiliza interfaces gráficas e permite o armazenamento de dados em tabelas no MySQL, com operações CRUD (Criar, Ler, Atualizar, Excluir) para cada tabela.
 
@@ -7,7 +7,6 @@ Este projeto tem como objetivo integrar classes de um projeto anterior (Tarefa E
 - **Cadastro de Dados**: Permite adicionar informações nas tabelas do banco de dados.
 - **Leitura de Dados**: Exibe as informações armazenadas nas tabelas.
 - **Atualização de Dados**: Atualiza registros existentes nas tabelas.
-- **Exclusão de Dados**: Remove registros específicos do banco de dados.
 - **Integração com MySQL**: Todas as operações são refletidas diretamente no banco de dados MySQL.
 
 ## 🛠️ Tecnologias Utilizadas
